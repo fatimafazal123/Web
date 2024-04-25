@@ -1,0 +1,19 @@
+.one{
+    border-radius: 40px;
+    border: 1px solid grey;
+}
+.two{
+    border-radius: 40px;
+    border: 1px solid white;
+}
+.three{
+    background-image: url(./images/image3.png);
+    background-repeat: no-repeat;
+}
+.four{
+    border-radius: 10%;
+}
+.five{
+    height: 55vh;
+
+}
